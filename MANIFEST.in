@@ -1,0 +1,4 @@
+include JDiary/schema.sql
+graft JDiary/static
+graft JDiary/templates
+global-exclude *.pyc
